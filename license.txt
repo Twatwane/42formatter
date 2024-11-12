@@ -1,0 +1,3 @@
+Proprietary License
+
+All rights reserved. This project remains the property of Antoine Josse. Any modifications or contributions to the project require prior permission from the author (contact at ajosse@student.42.fr). Redistribution under a different name is not allowed. The project must always be attributed to the original author.
